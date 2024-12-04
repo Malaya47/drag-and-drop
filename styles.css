@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+#draggableElement {
+  cursor: move;
+}
+
+#droppableArea {
+  border: 2px dashed red;
+}
